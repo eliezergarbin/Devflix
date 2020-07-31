@@ -11,12 +11,6 @@
             "nome": "Back End",
             "descricao": "Outra categoria bacanassa",
             "cor": "#cbd1ff"
-        },
-        { 
-            "id": 3,
-            "nome": "Front End",
-            "descricao": "Uma categoria bacanassa",
-            "cor": "#cbd1ff"
         }
     ]
 }
