@@ -21,7 +21,7 @@ export const TitleContainer = styled.div`
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
-`
+`;
 
 export const ExtraLink = styled.a`
   margin-left: 16px;
