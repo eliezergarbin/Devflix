@@ -69,10 +69,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/EliezerGarbin/NLW01-Booster.git
+$ git clone https://github.com/EliezerGarbin/Devflix.git
 
 # Go into the repository
-$ cd NLW01-Booster/web
+$ cd Devflix
 
 # Install dependencies
 $ npm install
@@ -81,6 +81,7 @@ $ npm install
 $ npm start
 
 # running on port 3000
+# run server on port 8080 or heroku
 ```
 
 
