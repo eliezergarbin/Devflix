@@ -1,10 +1,9 @@
 # Devflix
 <h1 align="center">
-    <img alt="ImersaoReact" title="#ImersaoReact" src="https://github.com/EliezerGarbin/Devflix/blob/master/.github/mergulho.svg" width="100px" />
+    <img alt="ImersaoReact" title="#ImersaoReact" src="https://github.com/EliezerGarbin/Devflix/blob/master/.github/mergulho.svg" width="150px" />
 </h1>
 
 <h4 align="center"> 
-	 Devflix 
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliezerGarbin/Devflix?color=%2304D361">
@@ -25,9 +24,9 @@
   </a>
 </p>
 <p align="center">
-  <a href="#-nlw">imersaoReact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-imersaoReact">imersaoReact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
