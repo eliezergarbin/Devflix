@@ -105,7 +105,6 @@ Made with by Eliézer Garbin :wave: [Get in touch!](https://www.linkedin.com/in/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript                                                                      
 [nodejs]: https://nodejs.org/
 [reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/
 [npm]: https://www.npmjs.com/
 [vs]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
