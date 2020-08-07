@@ -107,6 +107,5 @@ Made with by Eliézer Garbin :wave: [Get in touch!](https://www.linkedin.com/in/
 [reactjs]: https://reactjs.org
 [npm]: https://www.npmjs.com/
 [vs]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
