@@ -39,7 +39,7 @@ An intensive week instructed by Alura, which lasts from July 27 to 31, a week of
 
 ## 💻 Project
 
-Você sabia que Desenvolvimento de software pode não ser aquele bicho de sete cabeças de se aprender? Você só precisar procurar no lugar certo, conheça o Devflix, seu portal de conteúdo para desenvolvedores!
+This event was designed to demonstrate the development of a Single Page Application(SPA) using this wonderful development tool that is increasingly popular in the labor market.
 
 
 
@@ -102,7 +102,7 @@ Made with by Eliézer Garbin :wave: [Get in touch!](https://www.linkedin.com/in/
 
 
 
-                                                                                            
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript                                                                      
 [nodejs]: https://nodejs.org/
 [reactjs]: https://reactjs.org
 [rn]: https://facebook.github.io/react-native/
@@ -110,4 +110,4 @@ Made with by Eliézer Garbin :wave: [Get in touch!](https://www.linkedin.com/in/
 [vs]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
